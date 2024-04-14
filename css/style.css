@@ -1,0 +1,15 @@
+body{
+    background-color: #f8efe8;
+    color: #4a2d1d;
+    font-size: 30px;
+}
+div{
+    text-align: center;
+}
+
+.udotted{
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+
+
+}
